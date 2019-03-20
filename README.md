@@ -7,5 +7,5 @@
 
 # Disclaimer
 
-Estas resoluções podem **não** estar totalmente corretas.
+Estas resoluções podes **não** estar totalmente corretas.
 Algo que vejam que possa estar errado avisem me no discord **Manilator#6596**.
