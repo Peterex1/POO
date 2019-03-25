@@ -70,20 +70,12 @@ public class ficha2 {
         }
 
         int[] same = new int[index - 1];
-        System.arraycopy(sameAux,0,same,0,same.length);
+        System.arraycopy(sameAux, 0, same, 0, same.length);
 
         return same;
     }
-    
-
-
 
 
     public static void main(String[] args) {
-        int[] valores = {1, 2, 3, 4, 5};
-        int[] valores2 = {1, 2, 3, 4, 6};
-        System.out.print(Arrays.toString(sameValues(valores, valores2)));
-
-
     }
 }
